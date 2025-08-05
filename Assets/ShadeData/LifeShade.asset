@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: LifeShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Mourns Life
+  poeticRiddle: "\u201CA fleeting touch, a whispered breath, warm me now beyond death.\u201D"
+  recipeName: Spring Blossom Salad
+  requiredIngredients:
+  - Herbs
+  - Wildflowers
+  - Honey
+  - Lemon
+  dialogueCorrect: "\"Yes\u2026 soft as petals on skin,\r\n with the kiss of lemon
+    and loss.\r\n He sang to find me\r\n but it was the flowers that remembered.\""
+  dialogueIncorrect: "\"No\u2026 too rooted. Too loud.\r\n This isn\u2019t the breeze
+    that brushed my cheek,\r\n or the echo of laughter through lavender.\r\n Try
+    again\r\n I was barely here before I was gone.\"\r\n"
+  dishPrefab: {fileID: 351274480889402547, guid: 3f3acf0a5b86b334792270744f980a9c, type: 3}

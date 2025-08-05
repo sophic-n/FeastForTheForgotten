@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: HoneyedFarewellShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade With A Honeyed Farewell
+  poeticRiddle: "\u201CThe last thing I tasted was golden and slow\u2026 It clung
+    to the corners of my lips as I kissed her goodbye beneath the olive trees. She
+    did not weep, but the bees did.\u201D\r\n"
+  recipeName: Melopita
+  requiredIngredients:
+  - Cheese
+  - Honey
+  - Eggs
+  - Flour
+  - Lemon
+  - Dough
+  dialogueCorrect: "\u201CYes\u2026 the warmth of the honey, the way it lingered
+    as if reluctant to let go. Her hands smelled of thyme. I was young, and she was...
+    not meant for me. But we loved. We did.\u201D"
+  dialogueIncorrect: "\u201CNo\u2026 this is too sharp. She was gentle. I remember
+    sweetness, not salt. Try again\u2026 please.\u201D"
+  dishPrefab: {fileID: 2465226582532844182, guid: e71ea93c6928e434db713aa2c0777294, type: 3}

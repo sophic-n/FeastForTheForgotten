@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: SaltSmokeShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Misses Salt And Smoke
+  poeticRiddle: '"There was smoke in the wind and salt in the bread. I bit it and
+    thought of her eyes."'
+  recipeName: Olive-Stuffed Flatbread with Smoked Sea Salt
+  requiredIngredients:
+  - Flour
+  - Salt
+  - Olives
+  - Olive Oil
+  - Rosemary
+  dialogueCorrect: '"Ah... She baked it while waiting. Every loaf, a prayer. She
+    never stopped."'
+  dialogueIncorrect: "\"No. Too dry. This doesn\u2019t whisper of shores or longing.\""
+  dishPrefab: {fileID: 7836407229503279445, guid: e5c914cb31bb6894fa44f654c7bd5d21, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: PetalDancerShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Danced With Petals
+  poeticRiddle: '"I danced among falling blossoms. Pink rain above a marble stage.
+    I remember joy in every sway."'
+  recipeName: Blossom Soup
+  requiredIngredients:
+  - Wildflowers
+  - Broth
+  - Herbs
+  dialogueCorrect: '"Oh! I can feel it, the soft fall of silk on my shoulders. Music!
+    I was more than bones. I was grace."'
+  dialogueIncorrect: '"Heavy. Bitter. This is not the taste that floated with me
+    through the petals."'
+  dishPrefab: {fileID: 6483074503343905168, guid: a0529dcd3bbdf924ba8ce7519c53ec97, type: 3}

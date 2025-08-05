@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: WarriorShadowShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Shadow Following A Warrior
+  poeticRiddle: "\u201CThey sang his name in the war-songs,\r\nBut I was the echo
+    in his shadow.\r\nI wore his armor once.\r\nAnd in it, I died smiling.\u201D"
+  recipeName: Barley and Lamb Stew with Bay and Fig
+  requiredIngredients:
+  - Barley
+  - Meat
+  - Bay Leaf
+  - Figs
+  - Red Wine
+  - Thyme
+  - Olive Oil
+  dialogueCorrect: "\u201CYes\u2026 the barley, the lamb, food for soldiers.\r\nHe
+    never knew I followed him into every fire.\r\nBut he wept over my body like a
+    widow.\r\nAnd for that\u2026 I forgive him.\u201D"
+  dialogueIncorrect: "\u201CToo rich. Too noble. This is a king\u2019s feast.\r\nI
+    was never the king,\r\nJust the hand that steadied his spear.\r\nTry again. Make
+    it humbler.\u201D"
+  dishPrefab: {fileID: 4026699089125509087, guid: e296648f9eae14b47b7ce8e0ba5e5652, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: BurnedTextShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Burned Texts
+  poeticRiddle: '"I knew too much. So I fed it to the fire. But the smoke still smells
+    like ink."'
+  recipeName: "Smoked Eggplant & Ink-Sesame Pur\xE9e"
+  requiredIngredients:
+  - Eggplant
+  - Garlic
+  - Lemon
+  - Olive Oil
+  - Salt
+  dialogueCorrect: '"Yes. Blackened, bitter. Like letters you can taste, but never
+    read again."'
+  dialogueIncorrect: "\"Too crisp. This isn\u2019t knowledge, it\u2019s ruin.\""
+  dishPrefab: {fileID: 6418075068796278750, guid: 8862299496f6afb4eb91dc8e7f023519, type: 3}

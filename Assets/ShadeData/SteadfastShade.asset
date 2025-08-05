@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: SteadfastShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Remains Steadfast
+  poeticRiddle: "\u201CFaithful in shadow, steadfast and true, nourish me as I once
+    did you.\u201D"
+  recipeName: Barley & Honey Porridge
+  requiredIngredients:
+  - Barley
+  - Honey
+  - Milk
+  dialogueCorrect: "\u201CAh\u2026 the scent of sorrow, the taste of sacrifice.\r\nI
+    burned for him\r\nand I bloom only in the dark.\u201D"
+  dialogueIncorrect: "\u201CToo fresh. Too sweet.\r\nThis is a promise.\r\nI am a
+    memory of broken vows.\r\nTry again, give me ruin and petals.\u201D"
+  dishPrefab: {fileID: 4332106735957714699, guid: 1d50dbe91559c604eabcb2bc8f01eaf8, type: 3}

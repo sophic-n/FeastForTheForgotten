@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: BronzeMirrorShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Reflected In The Bronze Mirror
+  poeticRiddle: '"They said I was beautiful. But when I looked, all I saw was the
+    wrong face. So I broke the mirror. And kept the shard."'
+  recipeName: Candied Quince with Spiced Clove Syrup
+  requiredIngredients:
+  - Clove
+  - Red Wine
+  - Honey
+  - Oranges
+  dialogueCorrect: '"Yes... hard to cut, slow to sweeten. It suits me. It always
+    did."'
+  dialogueIncorrect: '"No... this is too easy. I was never simple."'
+  dishPrefab: {fileID: 5230145759710208177, guid: 784167f360ab63d4797be8f3589c8785, type: 3}

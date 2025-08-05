@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: GrainShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Longs For Endless Grain
+  poeticRiddle: '"It was simple. Repetitive. Warm. Something you could eat a thousand
+    times and still be hungry."'
+  recipeName: Lentil & Barley Stew
+  requiredIngredients:
+  - Lentils
+  - Barley
+  - Leeks
+  - Olive Oil
+  - Bay Leaf
+  - Garlic
+  dialogueCorrect: '"Yes... every day, I made it. Every day, it was the same. And
+    yet, in that sameness... I remember her hand on my back."'
+  dialogueIncorrect: '"No, this is too rich. It must be humble. Like toil, but edible."'
+  dishPrefab: {fileID: 4361808994360458075, guid: ffd973ffafc2cc040b28e70d21d1a9c9, type: 3}

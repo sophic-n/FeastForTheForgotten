@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: NoNameShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Warrior With No Name
+  poeticRiddle: '"The smell of blood was always there. But on feast days, they made
+    stew. Rich, red, smoky. Like the battlefield, only warmer."
+
+'
+  recipeName: Spiced Lamb & Red Lentil Stew
+  requiredIngredients:
+  - Meat
+  - Lentils
+  - Bay Leaf
+  - Onion
+  - Garlic
+  - Red Wine
+  - Black Pepper
+  dialogueCorrect: "\"That\u2019s it. It clings to your ribs and your memory. I carried
+    a bowl like this across a thousand fields. Never knew whose it was.\""
+  dialogueIncorrect: '"Too refined. I never had silver spoons or time for delicacies."
+
+'
+  dishPrefab: {fileID: 5695452675215087212, guid: 9f32303906e99f74fb8b11e48222df8f, type: 3}

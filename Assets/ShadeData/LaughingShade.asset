@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: LaughingShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Laughed
+  poeticRiddle: '"The sky turned violet, and we drank like gods. I poured laughter
+    into every goblet."'
+  recipeName: Honey Wine
+  requiredIngredients:
+  - Honey
+  - Spices
+  - Grapes
+  dialogueCorrect: '"Ha! The heat of it, sweet and sharp! I hear them again, roaring
+    with mirth. I remember the way joy overflowed."'
+  dialogueIncorrect: '"A cup, but empty. No music clings to its rim. No joy lives
+    in this brew."'
+  dishPrefab: {fileID: 2638726973798247354, guid: daeef159dcfeb404eb914fcd209f2d7c, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: OrchardShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Lingers The Orchard
+  poeticRiddle: '"Spring whispered through blossoms, and I answered with sticky hands
+    and bitten fruit."'
+  recipeName: Pomegranate Tart
+  requiredIngredients:
+  - Pomegranate
+  - Dough
+  - Honey
+  dialogueCorrect: '"Yes. The pomegranate cracked in my hands. The juice ran red
+    as laughter. I was alive then."'
+  dialogueIncorrect: '"No. This fruit is waxen. Hollow. It does not sing with bees
+    or sunlight."'
+  dishPrefab: {fileID: 8004891180759681533, guid: 6c76fdd4c29bdb14197e9d3cfe7d6528, type: 3}

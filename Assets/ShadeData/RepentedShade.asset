@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: RepentedShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Repented
+  poeticRiddle: '"I slit his throat, then cried into the stew. It was the only thing
+    I could still stir."'
+  recipeName: Red Wine & Wild Mushroom Stew
+  requiredIngredients:
+  - Mushrooms
+  - Onion
+  - Red Wine
+  - Garlic
+  - Herbs
+  - Barley
+  dialogueCorrect: "\"Yes. Heavy, dark. Like blood that won\u2019t wash from your
+    hands.\""
+  dialogueIncorrect: "\"Too clean. There\u2019s no guilt in this bowl.\""
+  dishPrefab: {fileID: 9099365478047217986, guid: 9a207d70486b80449be9794fb7c96b7f, type: 3}

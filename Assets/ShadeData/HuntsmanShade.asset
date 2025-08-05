@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: HuntsmanShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of A Hunter's Glory
+  poeticRiddle: '"We brought down the stag at dusk, our bellies full of fire and
+    pride."'
+  recipeName: Game Pie
+  requiredIngredients:
+  - Meat
+  - Mushrooms
+  - Leeks
+  - Dough
+  dialogueCorrect: '"Ha! The richness! I taste the thrill of the chase, the fire,
+    the blood! I was fierce once."'
+  dialogueIncorrect: '"Pale meat. Dull blade. This feast would shame the hunt."'
+  dishPrefab: {fileID: 1764893229780373034, guid: c559365921a94e44c82f43c898c85424, type: 3}

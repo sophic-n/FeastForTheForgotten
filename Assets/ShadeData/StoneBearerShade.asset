@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: StoneBearerShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Stone Bearer
+  poeticRiddle: "\u201CI climbed. I slipped. I climbed again.\r\nAnd the gods laughed
+    like thunder on bare stone.\r\nYou don\u2019t remember me, but your bones do,\r\nEvery
+    time they ache for no reason.\r\nGuess what I miss? Bread. Just bread.\u201D"
+  recipeName: Olive and Black Salt Bread Rolls
+  requiredIngredients:
+  - Flour
+  - Olives
+  - Salt
+  dialogueCorrect: "\u201CHeavy. Bitter. True.\r\nLike swallowing your own punishment
+    and calling it sustenance.\r\nI once dreamed of freedom.\r\nNow I just dream
+    of falling.\r\nBut for a moment, this is enough.\u201D"
+  dialogueIncorrect: "\u201CThis is soft. Fluffy. A lie.\r\nI didn\u2019t carry a
+    cloud.\r\nI carried a mountain.\r\nTry again, give me weight, not comfort.\u201D"
+  dishPrefab: {fileID: 885325082339582617, guid: 7aca95ba3523dfa47b3f7981287de432, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: MusicianShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Musician
+  poeticRiddle: "\u201CMy song was a whisper in the dark.\r\nThe crowd heard music.\r\nBut
+    not the man behind the keys.\u201D"
+  recipeName: Honey Pudding with Almond Crumble
+  requiredIngredients:
+  - Milk
+  - Honey
+  - Nuts
+  - Sugar
+  dialogueCorrect: "\u201CYes\u2026 gentle, fragile, fleeting.\r\nThe taste of notes
+    that never reached ears.\r\nI was never heard,\r\nbut I still sing.\u201D"
+  dialogueIncorrect: "\u201CToo loud. Too bright.\r\nI played for shadows and ghosts.\r\nTry
+    again.\r\nGive me silence folded in sweetness.\u201D"
+  dishPrefab: {fileID: 7935690058109033391, guid: 7d6ff7ea98fdf154691714c65c37b9d6, type: 3}

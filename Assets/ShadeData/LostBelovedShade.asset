@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: LostBelovedShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Lost Beloved
+  poeticRiddle: "\u201CHe promised not to look.\r\nI heard every footfall like a
+    prayer.\r\nBut promises are fragile things,\r\nLike petals. Or bones.\r\nAnd
+    he turned.\u201D\r"
+  recipeName: Pomegranate-Seed Honey Cakes
+  requiredIngredients:
+  - Pomegranate
+  - Honey
+  - Oranges
+  - Olive Oil
+  dialogueCorrect: "\u201CAh\u2026 yes. That ache beneath the sweetness.\r\nThat
+    is the taste of being remembered.\r\nHe did not hold me long,\r\nBut long enough
+    to make eternity unbearable.\r\nStill, I would choose it again.\u201D"
+  dialogueIncorrect: "\u201CNo\u2026 this is alive. This is hopeful.\r\nBut I was
+    already dead.\r\nI needed sweetness pulled from stone, not spring.\r\nYou do
+    not yet understand loss. Try again.\u201D\r"
+  dishPrefab: {fileID: 8640750483691346466, guid: c28bd2de1c344ea4a8c0f1eb7cb1bde0, type: 3}

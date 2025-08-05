@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: BeeCallerShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Called Bees
+  poeticRiddle: '"Wings hummed hymns. Their sweetness followed me into death."'
+  recipeName: Honeycomb Muffin
+  requiredIngredients:
+  - Honey
+  - Flour
+  - Nuts
+  dialogueCorrect: '"Oh! The warmth, the sting, the bloom. I was kissed by a thousand
+    wings."
+
+'
+  dialogueIncorrect: '"This sweetness is a lie. It hums false."'
+  dishPrefab: {fileID: 6519879201920486979, guid: 59b04fd1b2a01b448a4297863bb6a44a, type: 3}

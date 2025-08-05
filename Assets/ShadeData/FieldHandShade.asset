@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: FieldHandShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Speaks With The Field
+  poeticRiddle: '"I bent low to the earth, and it whispered stories only I heard."'
+  recipeName: Spring Herb Risotto
+  requiredIngredients:
+  - Rice
+  - Mint
+  - Peas
+  - Lemon
+  - Parsley
+  dialogueCorrect: "\"Yes\u2026 grain and greens. The taste of honest toil.\""
+  dialogueIncorrect: '"Too soft. The land never coddled me."
+
+'
+  dishPrefab: {fileID: 3376471129852672585, guid: 7a5b71b9748ba6a4bac05f0c537de580, type: 3}

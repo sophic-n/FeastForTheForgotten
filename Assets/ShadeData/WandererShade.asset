@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: WandererShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Wandered
+  poeticRiddle: '"Every mile softened my soles and sharpened my hunger."
+
+'
+  recipeName: "Traveler\u2019s Lentils"
+  requiredIngredients:
+  - Lentils
+  - Garlic
+  - Olive Oil
+  - Greens
+  dialogueCorrect: '"Ah. Spiced and warm, like the wind through foreign markets.
+    I remember being unlost."'
+  dialogueIncorrect: '"Still. Stale. This is a meal for walls, not paths."'
+  dishPrefab: {fileID: 2318932841740062106, guid: a226866c818a5e242b98bd656da9cf5e, type: 3}

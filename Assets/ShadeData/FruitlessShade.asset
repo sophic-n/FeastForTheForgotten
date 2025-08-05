@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: FruitlessShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Truth Denied
+  poeticRiddle: "\u201CI saw the ash before the match was struck.\r\nI screamed as
+    Troy burned.\r\nThey called me mad, because I was right.\u201D"
+  recipeName: "Charred Eggplant Pur\xE9e with Lemon and Garlic"
+  requiredIngredients:
+  - Eggplant
+  - Garlic
+  - Lemon
+  - Olive Oil
+  - Parsley
+  - Salt
+  dialogueCorrect: "\u201CSmoky\u2026 sharp\u2026 honest.\r\nThat\u2019s how truth
+    tasted on my tongue.\r\nI spoke, and they laughed.\r\nNow I speak, and no one
+    is left to hear.\r\nAt last, someone listens.\u201D"
+  dialogueIncorrect: "\u201CToo smooth. Too pleasing.\r\nThis is a lie that tastes
+    sweet.\r\nMy truth was bitter. Blackened.\r\nTry again. Show me ruin.\u201D"
+  dishPrefab: {fileID: 233686894221159030, guid: 44e179b7feba20245bb9dd7f342b6e89, type: 3}

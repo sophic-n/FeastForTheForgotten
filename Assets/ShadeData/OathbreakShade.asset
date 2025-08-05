@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: OathbreakShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Broke Their Oath
+  poeticRiddle: '"We swore on olives and ash. I broke it. I fed her my lie, and she
+    drank it down."'
+  recipeName: Charred Olive Tapenade on Burnt Barley Crackers
+  requiredIngredients:
+  - Olives
+  - Garlic
+  - Barley
+  - Olive Oil
+  - Chili
+  dialogueCorrect: '"Yes. Cracked and bitter. Like promises forgotten when lips touched."'
+  dialogueIncorrect: '"No. This tastes of trust. Not betrayal."'
+  dishPrefab: {fileID: 5531810737980176479, guid: 1103c6a6b30526842b6894800ee2de94, type: 3}

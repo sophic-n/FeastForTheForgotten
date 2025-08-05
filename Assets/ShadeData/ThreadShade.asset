@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: ThreadShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Spun Thread
+  poeticRiddle: '"I spun gold for kings. But for myself? Nothing. No thread left.
+    Only dust."'
+  recipeName: Golden Noodle Nest with Burnt Butter & Thyme
+  requiredIngredients:
+  - Butter
+  - Thyme
+  - Cheese
+  - Eggs
+  dialogueCorrect: '"Yes. Frayed ends, crispy coils. All that work, all undone."
+
+'
+  dialogueIncorrect: '"No. This shines too brightly. I was never the wearer, only
+    the maker."'
+  dishPrefab: {fileID: 1906199806113479768, guid: ada76f4fd7df19a4cb9ce1ef8f15ebe2, type: 3}

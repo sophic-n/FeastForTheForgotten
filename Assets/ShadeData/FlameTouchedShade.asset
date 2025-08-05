@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: FlameTouchedShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Flame-Touched
+  poeticRiddle: "\u201CI flew because the sky was open.\r\nI fell because I looked
+    too long.\r\nMy wings weren\u2019t failure. They were flame.\r\nAnd I wanted
+    to burn.\u201D"
+  recipeName: Saffron Custard with Burnt Honey and Pine Nuts
+  requiredIngredients:
+  - Saffron
+  - Eggs
+  - Honey
+  - Milk
+  - Nuts
+  - Lemon
+  dialogueCorrect: "\u201CYes\u2026 the saffron, the smoke, \r\nThis is what it felt
+    like to kiss the sun.\r\nI knew I\u2019d fall.\r\nBut for a moment, I was light
+    itself.\u201D"
+  dialogueIncorrect: "\u201CNo. This clings to earth.\r\nIt\u2019s safe. Caged.\r\nI
+    didn\u2019t fall for comfort. I fell for beauty.\r\nTry again, feed me the taste
+    of golden heights.\u201D"
+  dishPrefab: {fileID: 4158296009182089407, guid: 647477f4c0fa88548925fc49b5647ca8, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: HarvestWidowShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Harvest Widow
+  poeticRiddle: '"He used to bring me apricots in his shirt. Warm from the sun. Now
+    I wake with pits in my hands and no fruit to show."'
+  recipeName: Grilled Apricot Flatbread with Goat Cheese and Thyme
+  requiredIngredients:
+  - Apricot
+  - Dough
+  - Cheese
+  - Thyme
+  - Olive Oil
+  - Salt
+  dialogueCorrect: '"Yes... burnt edges, soft centers. Just like him. Just like all
+    of them in the end."'
+  dialogueIncorrect: "\"Too sweet. This isn\u2019t grief.\""
+  dishPrefab: {fileID: 7363711101962762863, guid: 7743b7036902e3941a7c48f7b7fd33a8, type: 3}

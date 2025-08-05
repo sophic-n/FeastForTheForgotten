@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: OliveBoyShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Known As The Olive Boy
+  poeticRiddle: "\"They called me runt. Said I\u2019d never grow. But I had oil on
+    my hands before I had blood.\""
+  recipeName: Olive Oil Cake with Orange Blossom
+  requiredIngredients:
+  - Olive Oil
+  - Flour
+  - Oranges
+  - Eggs
+  - Honey
+  - Lemon
+  dialogueCorrect: '"Yes. Crumbly. Soft. I used to sneak bites while pressing the
+    oil."'
+  dialogueIncorrect: '"Too grand. I never ate off plates."'
+  dishPrefab: {fileID: 1691491430913576015, guid: ae49829f210f0a84ea50af85797577fa, type: 3}

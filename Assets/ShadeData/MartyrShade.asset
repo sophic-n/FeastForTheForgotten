@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: MartyrShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of A Quiet Martyr
+  poeticRiddle: '"She wore silk. I wore her smile. I died in her place, and no one
+    asked my name."
+
+'
+  recipeName: Fragrant Rice with Rose & Pistachio
+  requiredIngredients:
+  - Rice
+  - Water
+  - Pistachios
+  - Saffron
+  - Milk
+  dialogueCorrect: "\"Yes. Subtle, elegant. Like pretending you belong in the throne\u2019s
+    shadow.\""
+  dialogueIncorrect: '"Too dull. I died for royalty, not for crumbs."'
+  dishPrefab: {fileID: 5083461883577430702, guid: 76ce4055672f5b14595155af7f0b0763, type: 3}

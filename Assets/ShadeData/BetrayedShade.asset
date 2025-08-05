@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: BetrayedShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Betrayed
+  poeticRiddle: "\u201CI broke it with my own hands, offered it with a lie. The crust
+    burned, but the inside was soft, like me. I did not mean to deceive him.\u201D"
+  recipeName: Eliopsomo
+  requiredIngredients:
+  - Flour
+  - Olives
+  - Olive Oil
+  - Rosemary
+  - Salt
+  dialogueCorrect: "\u201CThe olives\u2026 yes. He bit into one, smiled even though
+    he knew. That\u2019s how I knew he loved me. He forgave me in silence.\u201D"
+  dialogueIncorrect: "\u201CThis is too pure. Too sweet. There should be bitterness,
+    something hidden. Try again.\u201D"
+  dishPrefab: {fileID: 6449817197375458010, guid: eda66fb3dfee2934eb6c947782470e98, type: 3}

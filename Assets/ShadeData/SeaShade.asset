@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: SeaShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Longed For The Sea
+  poeticRiddle: "\u201CI dined on the shore the night I left. Charcoal smoke, the
+    tide in my ears, and the silence before Charon came. It was the last meal of
+    the living, and the first of the dead.\u201D"
+  recipeName: Nigiri and Maki Sushi
+  requiredIngredients:
+  - Fish
+  - Salt
+  - Lemon
+  - Oregano
+  dialogueCorrect: "\u201CYou\u2019ve done it. I can almost feel the fire again,
+    the way we laughed, trying not to think of what came next. We were afraid, but
+    we were together. That matters.\u201D"
+  dialogueIncorrect: "\u201CNo, no\u2026 this is earthbound. My soul still smells
+    of brine. You\u2019ve never drowned, have you?\u201D"
+  dishPrefab: {fileID: 6684138533452283094, guid: f03581f5a1d1ecd4a8152e6673670575, type: 3}

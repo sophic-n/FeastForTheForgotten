@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: FacelessShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Without A Face
+  poeticRiddle: '"I carved faces better than my own. They smiled for me when I could
+    not."'
+  recipeName: Pumpkin Face Pie
+  requiredIngredients:
+  - Pumpkin
+  - Dough
+  - Sugar
+  dialogueCorrect: "\"Yes\u2026 I remember. The spice of pumpkin, the sharp grin
+    I etched in crust. I was someone once.\""
+  dialogueIncorrect: "\"This\u2026 is flavorless. Like me. Like them.\""
+  dishPrefab: {fileID: 7228682249483989331, guid: d8d9d36b1ef824e4984c1779a43aa439, type: 3}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: MarbleShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade With A Marble Heart
+  poeticRiddle: '"They said I was cold. That I felt nothing. But I remember how warm
+    the honey tasted."'
+  recipeName: Warm Millet Porridge with Wild Honey & Almonds
+  requiredIngredients:
+  - Honey
+  - Nuts
+  - Milk
+  - Bay Leaf
+  dialogueCorrect: '"Yes. Sweet, but humble. A small warmth no one expected I could
+    feel."'
+  dialogueIncorrect: "\"Too bright. I wasn\u2019t loved like this.\""
+  dishPrefab: {fileID: 8160297373875786870, guid: b0d2e5a624cade044b15270bf939e57b, type: 3}

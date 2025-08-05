@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: ForgottenShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Was Forgotten
+  poeticRiddle: "\"She always got the sweet figs. I didn\u2019t mind. I liked the
+    bitter ones. Tough skins, sharp seeds. They were honest.\""
+  recipeName: "Bitter Fig & Olive Tapenade\r"
+  requiredIngredients:
+  - Olives
+  - Figs
+  - Olive Oil
+  - Garlic
+  - Thyme
+  - Lemon
+  dialogueCorrect: "\"Yes... the bitterness is familiar. It\u2019s like looking in
+    a mirror that doesn\u2019t smile back. I never blamed her... I just wasn\u2019t
+    chosen.\""
+  dialogueIncorrect: "\"Too soft. That\u2019s her taste, not mine.\""
+  dishPrefab: {fileID: 2869726839272364645, guid: 9880cc996b466bc408269cf42dd2f179, type: 3}

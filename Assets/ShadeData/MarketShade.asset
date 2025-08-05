@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: MarketShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of A Market Love
+  poeticRiddle: '"She smelled of citrus and cinnamon, and I followed that scent through
+    crowds."'
+  recipeName: Citrus Cake
+  requiredIngredients:
+  - Oranges
+  - Flour
+  - Honey
+  dialogueCorrect: "\"Ah\u2026 yes. The tang, the spice. I was young. The air was
+    warm. She smiled once, and I was undone.\""
+  dialogueIncorrect: '"Too sharp. Too dull. This bears no memory of her sly smile."
+
+'
+  dishPrefab: {fileID: 7061308516307766378, guid: 901a2097a6b00d44b9eac04f8788c356, type: 3}

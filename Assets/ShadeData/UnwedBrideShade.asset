@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: UnwedBrideShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Unwed Bride
+  poeticRiddle: '"The veil itched. I remember that. And the feast, untouched."'
+  recipeName: Stuffed Grape Leaves with Lamb and Rice
+  requiredIngredients:
+  - Grapes
+  - Meat
+  - Rice
+  - Mint
+  dialogueCorrect: "\"Yes... bitter leaves, warm meat. It tastes like guilt, doesn\u2019t
+    it?\""
+  dialogueIncorrect: "\"This is celebration food. I didn\u2019t celebrate.\""
+  dishPrefab: {fileID: 2296426337366737434, guid: 2651a37b72c39264687f3e7196089ce3, type: 3}

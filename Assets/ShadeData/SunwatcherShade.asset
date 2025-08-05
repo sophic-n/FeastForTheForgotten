@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: SunwatcherShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Watched The Sun
+  poeticRiddle: '"Each dawn, I knelt where light first kissed the dust. I miss the
+    gold that made shadows retreat."'
+  recipeName: Sunbread
+  requiredIngredients:
+  - Flour
+  - Saffron
+  - Olive Oil
+  - Honey
+  dialogueCorrect: "\"Ah\u2026 yes. I remember the dust on my knees. The smell of
+    bread rising with the morning. The sun knew my name.\""
+  dialogueIncorrect: '"No... this is night dressed in sunlight. It warms nothing.
+    It remembers no dawn."'
+  dishPrefab: {fileID: 81490942977823434, guid: f2460c666231d8c4788787f00ea7bf3b, type: 3}

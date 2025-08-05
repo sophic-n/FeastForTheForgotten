@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: SymphonyShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Remembers The Symphony
+  poeticRiddle: '"I played until the strings frayed, until her hand slipped from
+    mine. Make me remember the melody."
+
+'
+  recipeName: Spiced Grape Compote
+  requiredIngredients:
+  - Grapes
+  - Honey
+  - Clove
+  dialogueCorrect: "\"Ah\u2026 the first note returns. Sweet as honey, low as dusk.
+    I remember her tears.\""
+  dialogueIncorrect: '"No music in this. Only silence and wasted breath."'
+  dishPrefab: {fileID: 6162573046738056347, guid: dbdbee63c8a577146a40c49914d47835, type: 3}

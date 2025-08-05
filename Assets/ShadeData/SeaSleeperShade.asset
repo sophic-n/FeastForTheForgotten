@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: SeaSleeperShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Was Tied To Sea
+  poeticRiddle: '"The sea rocked me like a cradle; now even in death, I taste brine
+    on my tongue."
+
+'
+  recipeName: Salted Fish
+  requiredIngredients:
+  - Fish
+  - Dill
+  - Lemon
+  dialogueCorrect: "\"Yes. The salt. The hush. I see the boat again. I feel the net\u2019s
+    weight. The sea has not forgotten me.\""
+  dialogueIncorrect: "\"No\u2026 this is not of the tide. It does not sting like
+    memory. It does not weep like salt.\""
+  dishPrefab: {fileID: 8814510692227462354, guid: 63d457c9737e5c141b94fdb3f9e449a3, type: 3}

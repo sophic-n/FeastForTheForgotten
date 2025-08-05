@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: HomeShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Mourns Home
+  poeticRiddle: "\u201CHe always said food was love. Not battle-glory, not crowns.
+    Just the simplest thing. Warm, slow, shared beneath stars.\u201D\r\n"
+  recipeName: Lamb Stew with Lentils
+  requiredIngredients:
+  - Meat
+  - Lentils
+  - Bay Leaf
+  - Onion
+  - Garlic
+  - Olive Oil
+  dialogueCorrect: "\u201CHe would stir the pot with one hand, talk with the other.
+    I never learned how he made it taste like peace.\u201D"
+  dialogueIncorrect: "\u201CHe\u2019d never eat this. Too proud, too foreign. This
+    is not his home.\u201D"
+  dishPrefab: {fileID: 4415811016742336242, guid: d83c004c0a008d84f9cc5ebb9dabbef7, type: 3}

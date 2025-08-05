@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: MotherShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Longs For Mother's Warmth
+  poeticRiddle: '"Her fingers were dusted in flour. Her smile lingered in the crust."'
+  recipeName: Olive Bread
+  requiredIngredients:
+  - Flour
+  - Olives
+  - Olive Oil
+  - Rosemary
+  dialogueCorrect: '"Yes. I remember. The crackle of the pan, her voice soft like
+    rising dough. I was loved here."'
+  dialogueIncorrect: "\"No\u2026 this is cold, like silence in an empty home.\""
+  dishPrefab: {fileID: 7338594708522469449, guid: ed1736e34db39ee4aa48cf3288135c2c, type: 3}

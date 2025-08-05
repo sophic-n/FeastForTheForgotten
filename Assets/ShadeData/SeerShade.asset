@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: SeerShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of The Seer
+  poeticRiddle: "\u201CI drank deeply before I spoke, always. My lips red, my words
+    riddled. They feared me, but I only told the truth.\u201D"
+  recipeName: Spiced Wine
+  requiredIngredients:
+  - Red Wine
+  - Honey
+  - Bay Leaf
+  - Clove
+  - Oranges
+  dialogueCorrect: "\u201CAh, that\u2019s it. That old warmth, like a vision climbing
+    through my throat. I see the flames again. I see\u2026 everything.\u201D"
+  dialogueIncorrect: "\u201CThis burns\u2026 but without purpose. Where is the clarity?
+    Where is the madness?\u201D"
+  dishPrefab: {fileID: 6589337584965141866, guid: a43bba2a869cec046a5e1a380e82dc13, type: 3}

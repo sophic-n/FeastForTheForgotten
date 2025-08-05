@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: FestivalChildShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Of A Festival Child
+  poeticRiddle: '"I chased lanterns through syruped streets. Everything was sugared,
+    even my laughter."'
+  recipeName: Orange Glazed Fig Cake
+  requiredIngredients:
+  - Figs
+  - Oranges
+  - Honey
+  - Flour
+  - Eggs
+  - Water
+  dialogueCorrect: '"Yes! The stickiness, the sparkle. I was joy, pure and fleeting."'
+  dialogueIncorrect: '"No. This is grown-up food. Where are the colors?"'
+  dishPrefab: {fileID: 4297577155625297814, guid: 57f3ac4be5ec7b146b5431f3f0c0445c, type: 3}

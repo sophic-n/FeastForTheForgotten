@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: FarFromHomeShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Roamed Too Far
+  poeticRiddle: "\u201CSalt and sun. I saw so many shores, but none like hers. Her
+    kitchen smelled of thyme and something I could never name.\u201D"
+  recipeName: Grilled Sea Bass with Lemon and Thyme
+  requiredIngredients:
+  - Fish
+  - Thyme
+  - Lemon
+  - Garlic
+  - Salt
+  - Olive Oil
+  dialogueCorrect: "\u201CYes. I remember her hands, not the dish. But it smelled
+    like this when she forgave me.\u201D\r"
+  dialogueIncorrect: "\u201CNo\u2026 this could be anywhere. I\u2019m looking for
+    home.\u201D"
+  dishPrefab: {fileID: 9092847702107444082, guid: a663649aea1c1e14ca50f5a2d3e387ee, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: PoisonerShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Was Proven Fatal
+  poeticRiddle: '"They said I was beautiful, so I made them sick. But even then,
+    they begged for seconds."'
+  recipeName: Grape & Nightshade Conserve
+  requiredIngredients:
+  - Grapes
+  - Figs
+  - Hydrangea
+  dialogueCorrect: "\"Yes... you taste it too, don\u2019t you? Sweetness with something
+    wrong just beneath.\""
+  dialogueIncorrect: '"Oh, this would never kill anyone. Disappointing."
+
+'
+  dishPrefab: {fileID: 6151931692724505697, guid: 990977bf5a71e0b48baf879109d494c1, type: 3}

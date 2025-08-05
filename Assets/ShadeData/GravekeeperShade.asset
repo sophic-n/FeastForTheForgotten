@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: GravekeeperShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Kept Graves
+  poeticRiddle: '"They all left offerings. I remember the scent of wine and burnt
+    bread. No one ever left anything for me."'
+  recipeName: Ash-Baked Bread with Black Grape Must
+  requiredIngredients:
+  - Flour
+  - Grapes
+  - Olive Oil
+  - Salt
+  dialogueCorrect: '"Yes. Sour, smoky. Like what I stole off the tombs."'
+  dialogueIncorrect: '"Too sweet. No one loved me that much."'
+  dishPrefab: {fileID: 7540889789445414804, guid: 6dfdd4dc5f8dbed409281e7f50974085, type: 3}

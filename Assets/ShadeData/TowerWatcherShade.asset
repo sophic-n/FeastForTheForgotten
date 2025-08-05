@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: TowerWatcherShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Who Watched From Atop
+  poeticRiddle: '"I watched the harvest roll in like waves. I never touched the soil,
+    but I knew its rhythm."'
+  recipeName: Harvest Loaf
+  requiredIngredients:
+  - Dough
+  - Barley
+  - Olive Oil
+  - Rosemary
+  dialogueCorrect: '"Yes. Bread as golden as the fields I never walked. I tasted
+    the harvest after all."'
+  dialogueIncorrect: '"Too refined. Too distant. This does not speak of fields, or
+    the ache of ripening."'
+  dishPrefab: {fileID: 9018421064932250745, guid: bb6378b31b27dfa49841558bef41e139, type: 3}

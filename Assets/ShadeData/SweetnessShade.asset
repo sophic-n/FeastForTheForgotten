@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: SweetnessShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade With Sweetness That Lingers
+  poeticRiddle: '"It was the music that stirred the honey, I think. Her laugh, golden,
+    sticky. The scent of thyme and longing."'
+  recipeName: Honeyed Thyme Cake
+  requiredIngredients:
+  - Honey
+  - Thyme
+  - Flour
+  - Milk
+  - Eggs
+  - Olive Oil
+  dialogueCorrect: '"Yes... she would feed the bees by hand, you know. And hum that
+    same melody as the cake rose. Gods, I can almost hear it now..."'
+  dialogueIncorrect: '"No... too sharp. This isn''t her. She was never bitter, not
+    even when the end came."'
+  dishPrefab: {fileID: 5661290616154208519, guid: 7ca21540526873f4da493201a8683e61, type: 3}

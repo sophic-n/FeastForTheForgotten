@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e1a236488c2e0946991bdcf08022bbd, type: 3}
+  m_Name: BerriesShade
+  m_EditorClassIdentifier: 
+  shadeName: The Shade Covered In Berries
+  poeticRiddle: '"I stained my hands with laughter and crushed summer on my tongue."'
+  recipeName: Blackberry Tart
+  requiredIngredients:
+  - Blackberries
+  - Dough
+  - Mint
+  - Lemon
+  dialogueCorrect: "\"Yes\u2026 finally. The honey, the softness. I float again.
+    I forgive the ending.\""
+  dialogueIncorrect: '"Dry. Plain. This would never have ended the feast."'
+  dishPrefab: {fileID: 8481935870871647243, guid: 2bfa373fd8d681a43935de3d41656c7f, type: 3}
